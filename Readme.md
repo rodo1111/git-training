@@ -1,2 +1,3 @@
 Git training repo
-aherrera branch test
+new line from feature/login
+new line Prodigious aherrera branch test conflict resolution
